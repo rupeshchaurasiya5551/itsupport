@@ -1,0 +1,97 @@
+
+---Downloaded files---
+The import files for: Demo 1 were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = http://localhost/itsupport
+Data file = C:\xampp\htdocs\itsupport/wp-content/uploads/2022/12/demo-content-import-file_2022-12-07__06-14-17.xml
+Widget file = C:\xampp\htdocs\itsupport/wp-content/uploads/2022/12/demo-widgets-import-file_2022-12-07__06-14-17.json
+Customizer file = C:\xampp\htdocs\itsupport/wp-content/uploads/2022/12/demo-customizer-import-file_2022-12-07__06-14-17.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Imported
+Custom - Posts Slider - Popular Posts - Imported
+Tag Cloud - No Title - Imported
+Gallery - Photo Gallery - Imported
+Categories - No Title - Imported
+
+Page Sidebar : 
+
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Side Panel : 
+
+Custom - Company Information - No Title - Imported
+Gallery - Photo Gallery - Imported
+Navigation Menu - Our Services - Imported
+
+Search Page Sidebar : 
+
+Custom - Posts Slider - Recent Posts - Imported
+Tag Cloud - No Title - Imported
+Gallery - Photo Gallery - Imported
+
+Footer Column 1 : 
+
+Custom - Company Information - No Title - Imported
+
+Footer Column 2 : 
+
+Navigation Menu - Our Services - Imported
+
+Footer Column 3 : 
+
+Custom - Recent Posts - Recent Posts - Imported
+
+Footer Column 4 : 
+
+Custom - Useful Links - Useful Links - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+ Slider processed
